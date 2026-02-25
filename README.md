@@ -26,7 +26,7 @@ Program to implement the multiple linear regression model for predicting car pri
 Developed by: N P YOGESH
 RegisterNumber:  212225240189
 */
-```
+
 import pandas as pd
 from sklearn.model_selection import train_test_split,cross_val_score
 from sklearn.linear_model import LinearRegression
@@ -72,7 +72,7 @@ plt.xlabel("Actual value")
 plt.ylabel("Predicted value")
 plt.grid(True)
 plt.show
-
+```
 ## Output:
 ![alt text](image.png)
 
