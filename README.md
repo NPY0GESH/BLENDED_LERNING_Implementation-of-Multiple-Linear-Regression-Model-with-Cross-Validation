@@ -74,6 +74,9 @@ plt.grid(True)
 plt.show
 ```
 ## Output:
+<img width="708" height="38" alt="image" src="https://github.com/user-attachments/assets/d844d669-a38b-43fd-92ab-989121a9a701" />
+<img width="654" height="216" alt="image" src="https://github.com/user-attachments/assets/ecc45377-b35e-439c-8746-fe5d6456293a" />
+
 ![alt text](image.png)
 
 ## Result:
